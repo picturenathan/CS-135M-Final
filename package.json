@@ -1,0 +1,13 @@
+{
+  "name": "aquarium-water-change-reminder",
+  "version": "1.0.0",
+  "description": "Simple React Native app to calculate aquarium water change reminders.",
+  "main": "index.jsx",
+  "scripts": {
+    "start": "expo start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-native": "^0.72.0"
+  }
+}
